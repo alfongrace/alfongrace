@@ -1,3 +1,3 @@
-- 🔊 Hi! @alfongrace here
-- 👀 Software Developer Apprentice
-- ✉️ grcalfon@gmail.com
+  🔊 Hi! @alfongrace here
+  👀 Software Developer Apprentice
+  ✉️ grcalfon@gmail.com
